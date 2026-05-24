@@ -442,4 +442,9 @@ paypal-financial-analytics/
        erd.png
 Conclusion
 
-This project demonstrates how Advanced SQL can be applied to solve real-world fintech business problems. The analysis combines customer intelligence, financial analytics, lending assessment, and risk analysis techniques to generate actionable insights similar to those used by modern digital payment companies.
+This project demonstrates how Advanced SQL can be applied to solve real-world fintech business problems.
+The analysis combines customer intelligence, financial analytics, lending assessment, and risk analysis techniques to generate actionable insights similar to those used by modern digital payment companies.
+
+Author
+
+Shatabdi Dutta
